@@ -15,7 +15,7 @@ public class BookManagment {
     //Start of all the book methods
     public void createBook(Book book){
 
-       //books.add(book);
+       books.add(book);
     }
 
     public void removeBook(Book book){
